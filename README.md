@@ -17,10 +17,10 @@ In this course, we will learn how to use [**SIMON**](https://www.cell.com/patter
  
 If you plan to use machine learning to identify patterns in your data and want to learn more about SIMON and how to use it, you are all invited to join this Big Data Institute training session.
 
-## Pre-read
+## Pre-read and prerequisite for the course
 
--   [SIMON repository](https://github.com/genular/simon-frontend)
--  [SIMON manuscript](https://www.cell.com/patterns/fulltext/S2666-3899(20)30242-7)
+-  Installation instructions: [SIMON repository](https://github.com/genular/simon-frontend)
+-  Step-by-step analysis instructions:[SIMON manuscript](https://www.cell.com/patterns/fulltext/S2666-3899(20)30242-7)
 - [Feature Engineering and Selection: A Practical Approach for Predictive Models](https://bookdown.org/max/FES/) by Max Kuhn and Kjell Johnson
 
 ## Training course overview
